@@ -2,7 +2,7 @@
   
   <div class="navbar">
     <h2><a href="#/"><i class="fa fa-home" aria-hidden="true" /></a></h2>
-    <!-- <h2><a href=""><i class="fa fa-play" aria-hidden="true" /></a></h2> -->
+    <h2><a href="#/"><i class="fa fa-play" aria-hidden="true" /></a></h2>
   </div>
 
   <div class="sobre">
@@ -12,12 +12,20 @@
         Trabalho de Desenvolvimento Web solicitado pelos professores Allan Lima
         e Ranieri Valença, com o objetivo de ...
       </p>
-      <h1>DAMA</h1>
+      <h1>DAMA - Como Jogar</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias optio
-        accusantium cum, illo molestiae possimus explicabo totam saepe, itaque
-        ut adipisci corporis voluptate, cumque voluptatum? Deleniti totam
-        exercitationem laudantium doloribus!
+        O jogo de damas é um jogo de tabuleiro praticado por duas pessoas/adversários, 
+        no qual cada um tem 12 pedras que são diferenciadas pelas cores, claras e escuras.
+        o primeiro a jogar é sempre o adversário que está com as pedras claras. o objetivo 
+        do jogo é capturar, ou apenas imobilizar, todas as pedras do seu adversário.
+        cada jogada é feita somente na diagonal pra frente e uma casa por vez - a não ser 
+        que você precise capturar uma pedra. é obrigatório a captura das pedras e caso você 
+        precise escolher qual capturar, priorize a captura que tenha mais pedras a serem pegas 
+        ou a que lhe transforme em dama. quando uma pedra alcança a última linha do tabuleiro 
+        ela se transforma em dama. Diferente de uma pedra normal, a dama pode andar todas as 
+        casas, tanto na diagonal para frente como para trás, porém não pode passar por cima 
+        de uma pedra da mesma cor que a sua e para diferenciar uma dama das outras pedras é 
+        colocada uma pedra em cima da que virou dama.
       </p>
     </div>
 
@@ -29,11 +37,12 @@
           <br />
           17 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> Rayaninha
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> Rayane Sales
-        </p>
-        <p>
+          <br>
           <i class="fa fa-linux" aria-hidden="true" /> Usuário Linux
         </p>
       </div>
@@ -47,34 +56,36 @@
           <br />
           16 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> Joanna-Victoria
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> Joanna Victória
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> Usuário Linux
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <!-- <p><img src="imagens/" /></p> -->
+      <p><img src="images/avatar.jpeg"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Lucas Alves - IPI
           <br />
           19 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> github
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> ---
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <!-- <p><img src="imagens/" /></p> -->
+      <p><img src="images/avatar.jpeg"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Lucas Felinto -
@@ -82,62 +93,66 @@
           <br />
           21 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> LucasFelinto
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> ---
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <!-- <p><img src="imagens/" /></p> -->
+      <p><img src="images/avatar.jpeg"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Paloma Luiza - IPI
           <br />
           00 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> github
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> ---
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <!-- <p><img src="imagens/" /></p> -->
+      <p><img src="images/avatar.jpeg"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Mizael Julio - TSI
           <br />
           17 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> github
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> ---
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <!-- <p><img src="imagens/" /></p> -->
+      <p><img src="images/avatar.jpeg"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Anna Beatriz - TSI
           <br />
           00 anos
         </h3>
+        <br>
         <p>
           <i class="fa fa-github" aria-hidden="true" /> github
+          <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
-        </p>
-        <p>
+          <br>
           <i class="fa fa-windows" aria-hidden="true" /> ---
         </p>
       </div>
@@ -185,19 +200,22 @@
   color: rgb(31, 54, 54);;
 }
 .folhaderosto {
-  padding: 10px 0px 25px 10px;
+  padding: 0px 10px 0px 10px;
   background-color: blueviolet;
   margin-bottom: 50px;
   transform: skewY(2deg);
+  text-align: justify;
 }
 .folhaderosto h1 {
   color: white;
   text-decoration: overline;
   transform: skewY(-2deg);
+  padding-top: 20px;
 }
 .folhaderosto p {
   color: white;
   transform: skewY(-2deg);
+  padding-bottom: 30px;
 }
 .sobre {
   margin-top: 100px;
@@ -217,9 +235,10 @@
   height: 200px;
   border-radius: 50%;
   box-shadow: 4px 5px black;
+  margin-top: 15px;
 }
 .texto {
-  padding: 5px;
+  padding: 15px 15px 0px 15px;
   text-align: justify;
   color: white;
 }
