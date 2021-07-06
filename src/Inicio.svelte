@@ -1,4 +1,40 @@
-h3{
+<script>
+  import Sobre from "./Sobre.svelte";
+
+</script>
+
+<img src="images/Tabuleiro.png" alt="Plano de fundo">
+<div class="div">
+  <h1>Jogo de Dama</h1>
+  <div class="jogar">
+    <i class="fas fa-play icone" />
+    <a href="#/jogar/"><span class="text">JOGAR</span></a>
+    <!-- <Link class="text" to="sobre">JOGAR</Link> -->
+    <!-- <a ">jogar</a> -->
+  </div>
+  <div class="sobre">
+    <a href="#/sobre/"><span class="text">Sobre</span></a>
+  </div>
+</div>
+<span class="ball" />
+<span class="ball1" />
+<span class="ball2" />
+<span class="ball3" />
+
+
+<style>
+
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+h1{
+	margin-top: 6%;
+	/* font-size: 5vw; */
+}
+  h3{
 color: purple;
 }
 
@@ -12,21 +48,6 @@ color: purple;
 	left: 32%;
 	box-shadow: 4px 5px black;
 	text-align: center;
-}
-
-*{
-	border: 0;
-	margin: 0;
-}
-
-img{
-	width: 100%;
-	height: auto;
-}
-
-h1{
-	margin-top: 6%;
-	font-size: 5vw;
 }
 
 .jogar{
@@ -126,3 +147,4 @@ a{
 	left: 70%; 
 	border-radius: 25%;
 }
+</style>
