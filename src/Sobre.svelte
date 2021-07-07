@@ -12,21 +12,7 @@
         Trabalho de Desenvolvimento Web solicitado pelos professores Allan Lima
         e Ranieri Valença, com o objetivo de ...
       </p>
-      <h1>DAMA - Como Jogar</h1>
-      <p>
-        O jogo de damas é um jogo de tabuleiro praticado por duas pessoas/adversários, 
-        no qual cada um tem 12 pedras que são diferenciadas pelas cores, claras e escuras.
-        o primeiro a jogar é sempre o adversário que está com as pedras claras. o objetivo 
-        do jogo é capturar, ou apenas imobilizar, todas as pedras do seu adversário.
-        cada jogada é feita somente na diagonal pra frente e uma casa por vez - a não ser 
-        que você precise capturar uma pedra. é obrigatório a captura das pedras e caso você 
-        precise escolher qual capturar, priorize a captura que tenha mais pedras a serem pegas 
-        ou a que lhe transforme em dama. quando uma pedra alcança a última linha do tabuleiro 
-        ela se transforma em dama. Diferente de uma pedra normal, a dama pode andar todas as 
-        casas, tanto na diagonal para frente como para trás, porém não pode passar por cima 
-        de uma pedra da mesma cor que a sua e para diferenciar uma dama das outras pedras é 
-        colocada uma pedra em cima da que virou dama.
-      </p>
+  
     </div>
 
     <div class="cartaozinho">
@@ -140,20 +126,20 @@
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/avatar.jpeg"/></p>
+      <p><img src="images/beatriz.jpg"/></p>
       <div class="texto">
         <h3>
-          <i class="fa fa-address-book" aria-hidden="true" /> Anna Beatriz - TSI
+          <i class="fa fa-address-book" aria-hidden="true" /> Ana Beatriz - TSI
           <br />
-          00 anos
+          20 anos
         </h3>
         <br>
         <p>
-          <i class="fa fa-github" aria-hidden="true" /> github
+          <i class="fa fa-github" aria-hidden="true" /> anabeatriiz
           <br>
-          <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
+          <i class="fa fa-linkedin-square" aria-hidden="true" /> ana-beatriiz
           <br>
-          <i class="fa fa-windows" aria-hidden="true" /> ---
+          <i class="fa fa-windows" aria-hidden="true" /> Usuário Windows
         </p>
       </div>
     </div>

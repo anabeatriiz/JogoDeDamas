@@ -4,7 +4,7 @@
 
 <img src="images/Tabuleiro.png" alt="Plano de fundo" />
 <div class="div">
-	<h1>Jogo de Dama</h1>
+	<h1>Jogo de Damas</h1>
 	<div class="jogar">
 		<i class="fas fa-play icone" />
 		<a href="#/jogar/"><span class="text">JOGAR</span></a>
@@ -13,6 +13,9 @@
 	</div>
 	<div class="sobre">
 		<a href="#/sobre/"><span class="text">Sobre</span></a>
+	</div>
+	<div class="sobre">
+		<a href="#/ajuda/"><span class="text">Ajuda</span></a>
 	</div>
 </div>
 <span class="ball" />
