@@ -4,7 +4,7 @@
     <h2><a href="#/"><i class="fa fa-home" aria-hidden="true" /></a></h2>
     <h2><a href="#/"><i class="fa fa-play" aria-hidden="true" /></a></h2>
   </div>
-
+  
   <div class="sobre">
     <div class="folhaderosto">
       <h1>Projeto IF - Grupo Dama</h1>
@@ -16,7 +16,7 @@
     </div>
 
     <div class="cartaozinho">
-      <p><img src="images/rayane.jpeg" /></p>
+      <p><img src="images/rayane.jpeg" alt="Rayane Sales"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Rayane Sales - TSI
@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/joanna.jpeg" /></p>
+      <p><img src="images/joanna.jpeg" alt="Joanna Victória"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Joanna Victória -
@@ -48,12 +48,12 @@
           <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> Joanna Victória
           <br>
-          <i class="fa fa-windows" aria-hidden="true" /> Usuário Linux
+          <i class="fa fa-windows" aria-hidden="true" /> Usuário Windows
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/avatar.jpeg"/></p>
+      <p><img src="images/avatar.jpeg" alt="Lucas Alves"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Lucas Alves - IPI
@@ -71,11 +71,10 @@
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/avatar.jpeg"/></p>
+      <p><img src="images/avatar.jpeg" alt="Licas Felinto"/></p>
       <div class="texto">
         <h3>
-          <i class="fa fa-address-book" aria-hidden="true" /> Lucas Felinto -
-          TSI
+          <i class="fa fa-address-book" aria-hidden="true" /> Lucas Felinto - TSI
           <br />
           21 anos
         </h3>
@@ -90,25 +89,25 @@
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/avatar.jpeg"/></p>
+      <p><img src="images/Paloma.jpeg" alt="Paloma Luíza"/></p>
       <div class="texto">
         <h3>
-          <i class="fa fa-address-book" aria-hidden="true" /> Paloma Luiza - IPI
+          <i class="fa fa-address-book" aria-hidden="true" /> Paloma Luíza - IPI
           <br />
-          00 anos
+          23 anos
         </h3>
         <br>
         <p>
-          <i class="fa fa-github" aria-hidden="true" /> github
+          <i class="fa fa-github" aria-hidden="true" /> Pluiza12
           <br>
           <i class="fa fa-linkedin-square" aria-hidden="true" /> linkedin
           <br>
-          <i class="fa fa-windows" aria-hidden="true" /> ---
+          <i class="fa fa-linux" aria-hidden="true" /> Usuário Linux
         </p>
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/avatar.jpeg"/></p>
+      <p><img src="images/avatar.jpeg" alt="Mizael Julio"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Mizael Julio - TSI
@@ -126,7 +125,7 @@
       </div>
     </div>
     <div class="cartaozinho">
-      <p><img src="images/beatriz.jpg"/></p>
+      <p><img src="images/beatriz.jpg" alt="Ana Beatriz"/></p>
       <div class="texto">
         <h3>
           <i class="fa fa-address-book" aria-hidden="true" /> Ana Beatriz - TSI
