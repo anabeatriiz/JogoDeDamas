@@ -1,9 +1,7 @@
 <div class="container">
     <div class="navbar">
         <h2><a href="#/"><i class="fa fa-home" aria-hidden="true" /></a></h2>
-        <h2><a href="#/"><i class="fa fa-play" aria-hidden="true" /></a></h2>
     </div>
-
     <div class="Ajuda">
         <div>
             <h1> Damas - Como Jogar</h1>
@@ -27,15 +25,14 @@
 
 <style>
 .container {
-    display: flex;
-    flex-direction: column;
-    background: rgb(220, 192, 231);
-    widows: 100vw;
-    height: 100vh;
-}
+    background-image: url("/images/ComoJogar.jpg");
+    width: 100%;
+    height: 700px;
+  }
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 p {
@@ -43,12 +40,13 @@ p {
     margin-top: 20px;
     text-align: justify;
     font-size: 20px;
+    color: white;
 }
 .navbar {
   overflow: hidden;
-  background-color: blueviolet;
+  background-color: #9065fd;;
   width: 50%;
-  box-shadow: 4px 5px black;;
+  box-shadow: 4px 5px rgba(0, 0, 0, 0.535);
 }
 .navbar a {
   float: left;

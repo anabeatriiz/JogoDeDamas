@@ -104,7 +104,7 @@
 		overflow: hidden;
 		background-color: blueviolet;
 		width: 50%;
-		box-shadow: 4px 5px black;
+		box-shadow: 4px 5px rgba(0, 0, 0, 0.535);
 	}
 	.navbar a {
 		float: left;
